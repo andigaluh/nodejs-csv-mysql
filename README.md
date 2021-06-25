@@ -1,5 +1,5 @@
 # nodejs-csv-mysql
 
-## npm install
+### `npm start`
 
-## node src/server.js
+### `node src/server.js`
